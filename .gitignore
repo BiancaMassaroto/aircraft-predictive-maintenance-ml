@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Dados
+data/raw/
+data/processed/
+
+# Modelos
+models/*.pkl
+
+# IDEs
+.vscode/
